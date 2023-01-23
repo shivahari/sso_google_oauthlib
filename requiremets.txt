@@ -1,0 +1,4 @@
+flask
+oauthlib
+requests
+cryptography # required for ad-hoc SSL ceritficate
