@@ -1,3 +1,4 @@
-# sso_flask
-Google SSO on a Python Flask app
-This flask app tries to simplify Google SSO using https://github.com/oauthlib/oauthlib module, the steps in the Flask app are structured based on what I think will help any one implemeting Google SSO with oauthlib for the first time.
+# Google Login with Flask app
+A flask app to simplify **Google** SSO using [oauthlib](https://github.com/oauthlib/oauthlib) module
+The steps in the Flask app are structured based on what I think will help any one implemeting Google login with oauthlib with *CLIENT_ID*, *CLIENT_SECRET* & *redirect_uri* generated from the **Google** developer console.
+
